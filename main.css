@@ -18,5 +18,5 @@ div{
     border: 1px solid black;
     text-align: justify;
     padding: 50px;
-    margin: 20px; /* Marge extérieure de 50px */
+    margin: auto; /* Marge extérieure de 50px */
 }
