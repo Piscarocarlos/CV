@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1{
+    font-family: 'Roboto', sans-serif;
+} */
+
+@font-face {
+    font-family: 'AlexBrush-Regular';
+    src: url('fonts/AlexBrush-Regular.ttf');
+}
+
+h1 {
+    font-family: 'AlexBrush-Regular', sans-serif;
+}
+
+div{
+    width: 400px;
+    border: 1px solid black;
+    text-align: justify;
+    padding: 50px;
+    margin: 20px; /* Marge extérieure de 50px */
+}
